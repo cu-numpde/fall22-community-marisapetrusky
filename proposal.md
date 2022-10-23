@@ -15,7 +15,7 @@ SPARTA is a parallelized Direct Simulation Monte Carlo (DSMC) solver for simulat
 | Number of contributors in the past year | 13 |
 | Number of contributors in the lifetime of the project | 14 |
 | Number of distinct affiliations | 4 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
+| Where do development discussions take place? | Source Forge, emails to authors  |
 | Typical number of emails/comments per week? | 6 |
 | Typical number of commits per week? | 2-3 |
 | Typical commit size | 1-5 files changed, 5-150 insertions/deletions |
