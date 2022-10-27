@@ -29,8 +29,8 @@ SPARTA is a parallelized Direct Simulation Monte Carlo (DSMC) solver for simulat
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
+- [X] I have installed the software- Used cmake directions for Summit
+- [X] I have run at least one example- Instructions in sparta/examples/README
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
