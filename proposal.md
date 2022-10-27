@@ -31,7 +31,7 @@ encountered a problem.
 
 - [X] I have installed the software- Used cmake directions for Summit
 - [X] I have run at least one example- Instructions in sparta/examples/README
-- [ ] I have run the test suite- Enabled testing claims to be built correctly, but ctest never properly built
+- [ ] I have run the test suite- Uses cmake to enable testing via ctest. Cmake builds without any error messages, but ctest is never built (or documentation is outdated)
 - [ ] The test suite passes
 
 ### Notes/concerns/risks
